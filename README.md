@@ -1,1 +1,1 @@
-# seafund-page
+# sea-fund
